@@ -14,6 +14,14 @@ Things to consider:
 - Made basic roadmap of steps to take for project
 - May decide to do colab instead
 
+10/31/22
+- Created Google Colab notebook
+- Imported and Did work on data
+	- Surveyed data
+	- Removed missing values
+	- Visualized Data
+
 Goals for next week:
-- Look for additional data
-- start colab
+- Preprocess data (scale/one hot encode)
+- Write abstract
+- Try to fit to basic models
