@@ -21,7 +21,14 @@ Things to consider:
 	- Removed missing values
 	- Visualized Data
 
+11/15/22
+- Data was preprocessed
+	- Scaled continuous data
+	- one hot/ordinally encoded categorical data
+	- Seperated into training/test data
+- Wrote abstract
+
+11/22/22
+
 Goals for next week:
-- Preprocess data (scale/one hot encode)
-- Write abstract
-- Try to fit to basic models
+- Try to fit to models
