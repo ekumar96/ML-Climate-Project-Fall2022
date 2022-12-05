@@ -57,6 +57,7 @@ Things to consider:
 		- random_common_cause
 		- placebo_treatment_refuter
 		- data_subset_refuter
+
 12/2/22
 - Cleaned up code, reran all models and created graphs/visualizations
 - Performed inference on models for interesting predictions
