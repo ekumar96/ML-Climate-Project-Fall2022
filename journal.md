@@ -62,6 +62,8 @@ Things to consider:
 - Performed inference on models for interesting predictions
 - Collected graphs/visualizations for paper and presentation
 
+12/4/22
+- Created Slides and Recorded video
+
 Goals:
-- Create slides
-- start working on paper
+- Work on paper
