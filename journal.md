@@ -21,7 +21,50 @@ Things to consider:
 	- Removed missing values
 	- Visualized Data
 
-Goals for next week:
-- Preprocess data (scale/one hot encode)
-- Write abstract
-- Try to fit to basic models
+11/15/22
+- Data was preprocessed
+	- Scaled continuous data
+	- one hot/ordinally encoded categorical data
+	- Seperated into training/test data
+- Wrote abstract
+
+11/22/22
+- Fitted Linear Regression Models 
+	- Linear Regression
+	- Ridge Regression
+	- Elastic-Net Regression
+	- Lasso Regression
+	- Bayesian ARD Regression
+	- Bayesian Ridge Regression
+	- K Nearest Neighbors Regression
+	- Support Vector Regression
+- Fitted data to tree models 
+	- Decision Tree Regression
+	- Random Forest Regression
+	- Gradient Boosted Tree Regression
+	- XGBoost Regression
+
+11/29/22
+- Implemented Elementary Causal models
+	- Implemented Microsoft DoWhy model
+	- Created causal inference graph
+	- Experimented with causation from different treatments:
+		- avg_temp
+		- rainfall
+		- pesticides
+	- Found some strong causal links
+	- Attempted to refute causal links by performing Robustness Checks
+		- random_common_cause
+		- placebo_treatment_refuter
+		- data_subset_refuter
+
+12/2/22
+- Cleaned up code, reran all models and created graphs/visualizations
+- Performed inference on models for interesting predictions
+- Collected graphs/visualizations for paper and presentation
+
+12/4/22
+- Created Slides and Recorded video
+
+Goals:
+- Work on paper
